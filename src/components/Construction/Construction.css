@@ -1,0 +1,27 @@
+.Container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+    width: 100%;
+    height: 500px;
+
+    background-color: white;
+    color: black;
+
+    column-gap: 100px;
+    padding-left: 100px;
+    padding-right: 1npm run deplonpm run deplo00px;
+  }
+
+.Image {
+  height: 500px;
+}
+
+.HeaderText {
+  font-size: 60px;
+}
+
+.BodyText {
+
+}
