@@ -11,7 +11,6 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Construction/>
-        Bottom of container
       </header>
     </div>
   );
