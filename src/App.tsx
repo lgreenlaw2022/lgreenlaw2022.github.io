@@ -2,18 +2,17 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import rocketGIF from "./assets/rocket.webp"
-import buildingGIF from "./assets/geometric-loop.webp"
 import Construction from './components/Construction/Construction';
 import Header from './components/Header/Header';
+import Home from './components/Home/Home';
 
 
 function App() {
   return (
     <div className="App">
-      {/* <header className="App-header"> */}
-        {/* <Construction/> */}
-        <Header></Header>
-      {/* </header> */}
+      {/* <Construction/> */}
+      <Header></Header>
+      <Home></Home>
     </div>
   );
 }

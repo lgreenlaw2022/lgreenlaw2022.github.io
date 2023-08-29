@@ -1,7 +1,5 @@
 import React from 'react';
 import './Header.css';
-import rocketGIF from "../../assets/rocket.webp"
-
 
 function Header() {
   return (

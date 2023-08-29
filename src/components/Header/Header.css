@@ -1,6 +1,6 @@
 .Container {
   background-color: #a37a74;
-  height: 100px;
+  height: 76px;
   width: 100%;
   /* TO DO: make this fit the text */
   min-width: 300px;
@@ -13,10 +13,10 @@
 
   font-size: 28px;
   font-weight: 700;
-  /* color: white; */
   /* TO DO: check the contrast later */
   color: #2f2f2f;
   overflow: hidden;
+  line-height: 30px;
 }
 
 .Text {
