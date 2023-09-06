@@ -1,10 +1,16 @@
 .Home-container {
     text-align: center;
-    background-color: #fff9fb;
+    background-color: #faf8f6;
     padding: 100px;
 
     font-size: 100px;
     font-weight: 1000;
     color: #a37a74;
+    padding-left: 290px;
+    padding-right: 290px;
+    line-height: 80px;
+
+    display: flex;
+    flex-direction: column;
   }
   
