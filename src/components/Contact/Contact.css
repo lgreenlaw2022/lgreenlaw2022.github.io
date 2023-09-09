@@ -1,5 +1,5 @@
-.About-container {
-  font-size: 100px;
+.Contact-container {
+  font-size: 80px;
   font-weight: 1000;
   color: #a37a74;
   padding: 100px;
@@ -15,14 +15,13 @@
   background-color: #2f2f2f;
 }
 
-.heading-content {
+.body-text {
   color: #faf8f6;
-  font-size: 50px;
-}
-.body {
-  color: #faf8f6;
-  font-size: 28px;
-  line-height: 35px;
-}
+  font-size: 34px;
+  line-height: 48px;
 
+  display: flex;
+  flex-direction: column;
+  row-gap: 30px;
+}
   
