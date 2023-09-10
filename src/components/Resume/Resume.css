@@ -1,0 +1,20 @@
+.resume-Container {
+    text-align: center;
+    background-color: #faf8f6;
+    padding: 100px;
+    padding-left: 200px;
+    padding-right: 150px;
+    
+    display: flex;
+    flex-direction: row;
+    column-gap: 125px;
+    text-align: left;
+  }
+
+.resume-Text {
+  color: #a37a74;
+  font-size:80px;
+  line-height: 80px;
+  font-weight: 1000;
+}
+  

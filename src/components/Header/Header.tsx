@@ -6,7 +6,8 @@ function Header() {
     <div className="Container">
       <div className="Text">HOME</div>
       <div className="Text">ABOUT</div>
-      <div className="Text">PROJECTS</div>
+      {/* <div className="Text">PROJECTS</div> */}
+      <div className="Text">RESUME</div>
       <div className="Text">CONTACT</div>
     </div>
   );

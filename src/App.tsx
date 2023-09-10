@@ -7,6 +7,7 @@ import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
+import Resume from './components/Resume/Resume';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Header></Header>
       <Home></Home>
       <About></About>
+      <Resume></Resume>
       <Contact></Contact>
     </div>
   );
