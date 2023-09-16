@@ -3,7 +3,7 @@
     background-color: #faf8f6;
     padding: 100px;
     padding-left: 200px;
-    padding-right: 150px;
+    padding-right: 250px;
     
     display: flex;
     flex-direction: row;
@@ -17,4 +17,14 @@
   line-height: 80px;
   font-weight: 1000;
 }
-  
+
+img {
+  width: 500px;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+img:hover {
+  transform: scale(1.1);
+  transition: 0.5s;
+}
