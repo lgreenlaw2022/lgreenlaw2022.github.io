@@ -2,9 +2,9 @@ import React from 'react';
 import './Contact.css';
 
 
-function Test() {
+function Contact() {
   return (
-    <div className="Contact-container">
+    <div className="Contact-container" id="contact">
       <div>Contact Me</div>
       <div className='body-text'>
         <div>
@@ -19,4 +19,4 @@ function Test() {
   );
 }
 
-export default Test;
+export default Contact;

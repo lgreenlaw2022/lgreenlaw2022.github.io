@@ -5,7 +5,7 @@ import resume from "../../assets/resume-screenshot.jpg"
 
 function Resume() {
   return (
-    <div className="resume-Container">
+    <div className="resume-Container" id="resume">
       <div className="resume-Text">View My Resume</div>
       
       <a
